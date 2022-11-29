@@ -1,0 +1,39 @@
+@import "resetStyle.scss";
+
+body{
+	padding: 20px;
+}
+
+.wrapper {
+   display: flex;
+   justify-content: center;
+}
+.content {
+   display: flex;
+   flex-direction: column;
+}
+
+button {
+   background: #f8a095;
+   padding: 15px 30px;
+}
+.buttons {
+ 
+}
+.previous {
+}
+.item {
+   margin: 5px 0;
+}
+.next {
+}
+
+
+.red {background: red; padding: 30px;
+}
+.green { background: green;padding: 30px;
+}
+.blue {background: blue;padding: 30px;
+}
+.yellow {background: yellow;padding: 30px;
+}
